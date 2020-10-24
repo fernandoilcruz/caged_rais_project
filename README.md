@@ -1,2 +1,2 @@
 # caged_rais_project
-The project goal is manipulating, visualizing and understanding rais and caged databases. 
+The goal of this project is just to experiment with rais and caged databases.
